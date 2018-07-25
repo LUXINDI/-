@@ -1,9 +1,9 @@
 # -数据结构学习
 ### 资源
-[牛客网剑指Offer](https://www.nowcoder.com/ta/coding-interviews)
-[python剑指offer](https://github.com/JushuangQiao/Python-Offer)
-[剑指offer解析](https://github.com/gatieme/CodingInterviews)
-[visualgo](https://visualgo.net/en)
+[牛客网剑指Offer](https://www.nowcoder.com/ta/coding-interviews)  
+[python剑指offer](https://github.com/JushuangQiao/Python-Offer)  
+[剑指offer解析](https://github.com/gatieme/CodingInterviews)  
+[visualgo](https://visualgo.net/en)  
 
 
 ### 二叉树
