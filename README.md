@@ -3,6 +3,10 @@
 [牛客网剑指Offer](https://www.nowcoder.com/ta/coding-interviews)  
 [python剑指offer](https://github.com/JushuangQiao/Python-Offer)  
 [剑指offer解析](https://github.com/gatieme/CodingInterviews)  
+
+## 数据结构演示
+[visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+[演示](https://coolshell.cn/articles/4671.html)
 [visualgo](https://visualgo.net/en)  
 
 
