@@ -9,7 +9,8 @@
 [演示](https://coolshell.cn/articles/4671.html)
 [visualgo](https://visualgo.net/en)  
 
-
+## Python学习
+[seaborn 画图](https://blog.csdn.net/suzyu12345/article/details/69029106)
 ### SQL
 [如何学习SQL](https://www.zhihu.com/question/19552975)
 <p> select * from  table</p>
