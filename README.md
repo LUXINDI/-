@@ -13,6 +13,8 @@
 [seaborn 画图](https://blog.csdn.net/suzyu12345/article/details/69029106)
 ### SQL
 [如何学习SQL](https://www.zhihu.com/question/19552975)
+[易佰教程](https://www.yiibai.com/mysql/stored-procedure.html)
+[mysql tutorial](http://www.mysqltutorial.org/mysql-derived-table/)
 <p> select * from  table</p>
 <p> select distinct * from table</p>
 <p> select * from table order by name DESC/ASC </p>
